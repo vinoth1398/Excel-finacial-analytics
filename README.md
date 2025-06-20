@@ -1,26 +1,57 @@
-# Excel-finacial-analytics
+📊 Excel Sales & Finance Analytics
+Project Overview
+    
+    This project involves sales performance tracking and financial analysis using Excel, Power Query, and DAX.
+    It includes dynamic dashboards and reports to evaluate business performance, identify trends, 
+    and support data-driven decision-making.
 
-Sales Analytics Overview
+Key Deliverables
+📈 Sales Reports
+   
+    Customer Performance Report: Track sales KPIs and customer trends.
+    
+    Market vs. Target Analysis: Compare actual performance against sales targets.
+    
+    Business Insights: Optimize discounts, negotiations, and expansion opportunities.
 
+💰 Financial Reports
+Profit & Loss (P&L) Statements by Fiscal Year, Month, and Market.
 
+Financial Performance Evaluation: Benchmarking, budgeting, and forecasting support.
 
+Technical Skills Applied
+   
+    ✔ ETL (Extract, Transform, Load) methodology
+    ✔ Power Query for data cleaning & date table generation
+    ✔ Data Modeling with Power Pivot (relationships, calculated columns)
+    ✔ DAX for advanced calculations & measures
+    ✔ User-centric report design with dynamic visualizations
 
+Soft Skills Highlighted
+   
+    Analytical thinking in sales & finance reporting
+    
+    Structured approach to report planning & optimization
+    
+    Stakeholder-focused dashboard design
 
-Project Goals:
+📂 Repository Contents
+Sales Reports:
 
-* Develop a detailed Customer Performance Report to evaluate individual customer metrics https://github.com/vinoth1398/Excel-finacial-analytics/blob/6a0643c2610fbd2a910468821ceb090dd2c7c439/Customer%20Performance%20Report.pdf
+[Customer Performance Report.pdf
+](https://github.com/vinoth1398/Excel-finacial-analytics/blob/b957854a46be449eb86a2c476449aab0f8fca116/Customer%20Performance%20Report.pdf)
 
+[Market Performance vs. Targets
+](https://github.com/vinoth1398/Excel-finacial-analytics/blob/b957854a46be449eb86a2c476449aab0f8fca116/Market%20Performance%20vs%20Target%20Report.pdf)
 
-* Perform an in-depth analysis comparing Market Performance and Sales Targets to assess progress and gaps  [Market Performance vs Target Report.pdf.](https://github.com/vinoth1398/Excel-finacial-analytics/blob/e3e8be1932b334c4bdebe77fd571cbbe410c7717/Market%20Performance%20vs%20Target%20Report.pdf)
+Financial Reports:
 
+[P&L by Fiscal Year
+](https://github.com/vinoth1398/Excel-finacial-analytics/blob/b957854a46be449eb86a2c476449aab0f8fca116/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
+[P&L by Months
+](https://github.com/vinoth1398/Excel-finacial-analytics/blob/b957854a46be449eb86a2c476449aab0f8fca116/P%26L%20Statement%20by%20Months.pdf)
 
-*Objective of Sales Analytics: Enable organizations to track, analyze, and optimize their sales processes and outcomes.
+[P&L by Markets
+](https://github.com/vinoth1398/Excel-finacial-analytics/blob/b957854a46be449eb86a2c476449aab0f8fca116/P%26L%20Statement%20by%20Markets.pdf)
 
-
-
-Value of Sales Data Analysis: Uncover sales trends, monitor critical performance metrics (KPIs), and drive data-informed strategies.
-
-
-
-Purpose of Reports: Support strategic decision-making by optimizing customer discount structures, enhancing consumer negotiations, and pinpointing high-potential markets for business growth.
